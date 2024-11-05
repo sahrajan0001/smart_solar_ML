@@ -35,7 +35,7 @@ This project is designed to read data from an MPPT (Maximum Power Point Tracking
 ## Setup Instructions
 
 1. Clone the Repository:
-   $bash : git clone https://github.com/sagarmollah/SMART_SOLAR.git
+   $bash : git clone https://github.com/sahrajan0001/smart_solar_ML.git
    
 
 2. Configure WiFi Credentials:
